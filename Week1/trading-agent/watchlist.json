@@ -1,0 +1,173 @@
+{
+  "watchlist": [
+    {
+      "symbol": "SPY",
+      "description": "S&P 500 ETF — baseline market exposure",
+      "max_allocation_pct": 5,
+      "category": "etf"
+    },
+    {
+      "symbol": "QQQ",
+      "description": "Nasdaq ETF — tech sector exposure",
+      "max_allocation_pct": 5,
+      "category": "etf"
+    },
+    {
+      "symbol": "IWM",
+      "description": "iShares Russell 2000 ETF — small cap broad exposure",
+      "max_allocation_pct": 5,
+      "category": "etf"
+    },
+    {
+      "symbol": "IMCG",
+      "description": "iShares Morningstar Mid-Cap Growth ETF — mid cap growth exposure",
+      "max_allocation_pct": 5,
+      "category": "etf"
+    },
+    {
+      "symbol": "GDX",
+      "description": "VanEck Gold Miners ETF — inflation/macro hedge",
+      "max_allocation_pct": 5,
+      "category": "etf"
+    },
+    {
+      "symbol": "GPIX",
+      "description": "Goldman Sachs S&P 500 Core Premium Income ETF",
+      "max_allocation_pct": 5,
+      "category": "etf"
+    },
+    {
+      "symbol": "FNDE",
+      "description": "Schwab Fundamental International Large Co. ETF — international value exposure",
+      "max_allocation_pct": 5,
+      "category": "etf"
+    },
+    {
+      "symbol": "MLPX",
+      "description": "Global X MLP & Energy Infrastructure ETF — midstream energy",
+      "max_allocation_pct": 5,
+      "category": "etf"
+    },
+    {
+      "symbol": "NVDA",
+      "description": "GPU/AI infrastructure — high conviction holding",
+      "max_allocation_pct": 5,
+      "category": "large_cap"
+    },
+    {
+      "symbol": "AAPL",
+      "description": "Large cap tech — stability anchor",
+      "max_allocation_pct": 5,
+      "category": "large_cap"
+    },
+    {
+      "symbol": "MSFT",
+      "description": "Cloud/enterprise — AI infrastructure play",
+      "max_allocation_pct": 5,
+      "category": "large_cap"
+    },
+    {
+      "symbol": "TSLA",
+      "description": "EV/energy/autonomy — high volatility growth",
+      "max_allocation_pct": 5,
+      "category": "large_cap"
+    },
+    {
+      "symbol": "CRWD",
+      "description": "CrowdStrike — cybersecurity platform, high growth large cap",
+      "max_allocation_pct": 5,
+      "category": "large_cap"
+    },
+    {
+      "symbol": "PANW",
+      "description": "Palo Alto Networks — cybersecurity platform, large cap",
+      "max_allocation_pct": 5,
+      "category": "large_cap"
+    },
+    {
+      "symbol": "MU",
+      "description": "Micron Technology — memory semiconductor, AI demand cycle",
+      "max_allocation_pct": 5,
+      "category": "large_cap"
+    },
+    {
+      "symbol": "LRCX",
+      "description": "Lam Research — semiconductor equipment, wafer fabrication",
+      "max_allocation_pct": 5,
+      "category": "large_cap"
+    },
+    {
+      "symbol": "KLAC",
+      "description": "KLA Corporation — semiconductor process control equipment",
+      "max_allocation_pct": 5,
+      "category": "large_cap"
+    },
+    {
+      "symbol": "ORCL",
+      "description": "Oracle — enterprise cloud and AI infrastructure",
+      "max_allocation_pct": 5,
+      "category": "large_cap"
+    },
+    {
+      "symbol": "ETN",
+      "description": "Eaton Corporation — industrial/electrical infrastructure play",
+      "max_allocation_pct": 5,
+      "category": "large_cap"
+    },
+    {
+      "symbol": "UAL",
+      "description": "United Airlines — cyclical recovery play",
+      "max_allocation_pct": 5,
+      "category": "cyclical"
+    },
+    {
+      "symbol": "DAL",
+      "description": "Delta Airlines — cyclical recovery, travel demand play",
+      "max_allocation_pct": 5,
+      "category": "cyclical"
+    },
+    {
+      "symbol": "NBIS",
+      "description": "Nebius Group — AI cloud infrastructure, high growth speculative",
+      "max_allocation_pct": 3,
+      "category": "speculative"
+    },
+    {
+      "symbol": "QUBT",
+      "description": "Quantum Computing Inc — speculative small cap, high risk",
+      "max_allocation_pct": 2,
+      "category": "speculative"
+    },
+    {
+      "symbol": "WOLF",
+      "description": "Wolfspeed — silicon carbide semiconductors, high volatility turnaround play",
+      "max_allocation_pct": 2,
+      "category": "speculative"
+    },
+    {
+      "symbol": "SRUUF",
+      "description": "Sprott Uranium Royalties — OTC uranium royalty, speculative",
+      "max_allocation_pct": 2,
+      "category": "speculative"
+    },
+    {
+      "symbol": "GPIQ",
+      "description": "Goldman Sachs US Equity ETF — confirm exchange tradability before ordering",
+      "max_allocation_pct": 3,
+      "category": "etf"
+    },
+    {
+      "symbol": "GSIMX",
+      "description": "Goldman Sachs fund — not exchange-traded, verify before ordering",
+      "max_allocation_pct": 3,
+      "category": "fund"
+    },
+    {
+      "symbol": "ARKVX",
+      "description": "ARK Venture Fund — private/venture exposure, not exchange-traded",
+      "max_allocation_pct": 3,
+      "category": "fund"
+    }
+  ],
+  "cash_reserve_pct": 20
+}

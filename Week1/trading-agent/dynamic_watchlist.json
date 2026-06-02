@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-06-02T13:45:03.299249+00:00",
+  "dynamic_watchlist": [
+    {
+      "symbol": "BJDX",
+      "description": "top active \u2014 608,141 trades, vol 47,774,190",
+      "max_allocation_pct": 2,
+      "category": "dynamic"
+    },
+    {
+      "symbol": "MRVL",
+      "description": "top active \u2014 522,735 trades, vol 28,767,218",
+      "max_allocation_pct": 2,
+      "category": "dynamic"
+    }
+  ]
+}
